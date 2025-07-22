@@ -43,7 +43,7 @@ You don’t need an account with IRS. It’s safe, mobile-friendly, and official
 
 ---
 
-## 📈 Common Long-Tail Keywords to Target
+## 📈 Commonly searched keywrods 
 
 - “IRS tax estimator calculator free 2025”  
 - “IRS withholding estimator tool mobile”  
@@ -52,13 +52,6 @@ You don’t need an account with IRS. It’s safe, mobile-friendly, and official
 - “IRS tax withholding estimator vs TurboTax”
 
 ---
-
-## 🚀 Why This Works for GitHub to Your Website
-
-The plan:  
-1. Make a GitHub Pages mini-site, like `irstaxestimator.github.io`  
-2. Host an easy guide + **embedded link** or button to your full-featured tool on your website (subdomain)  
-3. Drive US search traffic via free SEO, get click-through to your main site
 
 Visitors get immediate value from the estimator guide. Then they click “Use our Advanced Tax Tool” to visit your site.
 
