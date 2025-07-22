@@ -7,7 +7,7 @@ Pirates want that IRS tax estimator? Here’s the deal: use the official IRS Tax
 
 ## 🇺🇸 What Is the IRS Tax Estimator Calculator?
 
-The **IRS Tax Withholding Estimator** is a free tool by the IRS that helps US taxpayers (employees, freelancers, retirees) estimate their federal income tax withholding. Just enter things like filing status, paychecks, other income, deductions – and it tells you if you’ll owe money or get a refund ([irs.gov](https://www.irs.gov/individuals/tax-withholding-estimator?utm_source=chatgpt.com)).
+The **IRS Tax Withholding Estimator** is a free tool by the IRS that helps US taxpayers (employees, freelancers, retirees) estimate their federal income tax withholding. Just enter things like filing status, paychecks, other income, deductions – and it tells you if you’ll owe money or get a refund ([irs.gov](https://www.irs.gov/individuals/tax-withholding-estimator)).
 
 You don’t need an account with IRS. It’s safe, mobile-friendly, and official.
 
@@ -51,11 +51,6 @@ You don’t need an account with IRS. It’s safe, mobile-friendly, and official
 - “IRS W‑4 estimator for freelance income”  
 - “IRS tax withholding estimator vs TurboTax”
 
----
-
-Visitors get immediate value from the estimator guide. Then they click “Use our Advanced Tax Tool” to visit your site.
-
----
 
 ## ❓ FAQ
 
