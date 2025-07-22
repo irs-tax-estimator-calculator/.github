@@ -36,10 +36,10 @@ You don’t need an account with IRS. It’s safe, mobile-friendly, and official
 
 | Feature                 | IRS Estimator | H&R Block / TurboTax | NerdWallet |
 |-------------------------|---------------|----------------------|------------|
-| **Reliable & free**     | ✅ Official tool | ✅ Free basic tool | ✅ Free basic tool |
+| **Reliable & free**     | ✅ Official tool very fast | ✅ Free basic tool | ✅ Free basic tool |
 | **Mobile-friendly**     | ✅ Modern UI   | ✅ App/mobile ready | ✅ Online only |
 | **Withholding updates** | ✅ Suggests W-4 changes | ❌ Refund only | ❌ Refund only |
-| **No signup needed**    | ✅ Yes         | ❌ Account needed     | ❌ Account needed |
+| **No signup needed**    | ✅ Yes   (saves your time)      | ❌ Account needed     | ❌ Account needed |
 
 ---
 
