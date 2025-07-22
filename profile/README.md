@@ -67,13 +67,3 @@ A: If you enter reasonable info and adjust gradually, it’s fine. You won't be 
 A: After any big change—new job, marriage, home purchase—or once a year suggested by the IRS.
 
 ---
-
-## 🔗 Next Step – Your GitHub Page & Tool
-
-On your GitHub mini-site:
-
-- Create a clean **step-by-step guide** in simple US English, mix sentence lengths naturally  
-- Add “Use our Advanced Tax Estimator” button that links to your tool  
-- Optimize meta tags using keywords above
-
-Then your site becomes a trusted entry point. People searching **IRS tax estimator calculator** find your page, use the info, and click through to your full tool—giving you both traffic and engagement.
