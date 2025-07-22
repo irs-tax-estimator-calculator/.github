@@ -4,6 +4,7 @@
 Pirates want that IRS tax estimator? Here’s the deal: use the official IRS Tax Withholding Estimator to quickly find out how much federal tax you'll owe or get refunded this year. No signup, no pay – just enter your info and get your estimate instantly.
 
 ---
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8066a317-7a82-44e5-8224-6dbb61f74971" />
 
 ## 🇺🇸 What Is the IRS Tax Estimator Calculator?
 
